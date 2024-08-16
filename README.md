@@ -14,3 +14,17 @@ enters a number, the clock display will update, shifting digits to the left as n
   When the start button is pressed, the input is disabled, and a countdown begins based on the time set. 
 The time is continuously updated on the display. Once the countdown reaches zero, an alarm sound is played
 using the playsound library, and the clock resets to "00:00". The input is then re-enabled for further use. 
+
+
+<h3>Example:</h3>
+<b>User enters the number 1:</b>
+
+![image](https://github.com/user-attachments/assets/388818a9-2b5f-4998-be7f-80147b9ed706)
+
+<b>User enters the number 2:</b>
+
+![image](https://github.com/user-attachments/assets/db80e655-e371-4bc9-bf92-43ae2d73fca7)
+
+<b>User enters the number 3:</b>
+
+![image](https://github.com/user-attachments/assets/f4c4f20e-2e8e-4537-9dcf-6a803785d450)
