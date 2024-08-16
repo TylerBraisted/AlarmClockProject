@@ -6,7 +6,7 @@
 allows users to input time in the format "MM:SS" by simply typing the numbers on their keyboard. When the user 
 enters a number, the clock display will update, shifting digits to the left as new digits are entered.
 
-<h2>Initial Display:</h2>
+<h3>Initial Display:</h3>
 
 ![image](https://github.com/user-attachments/assets/c0109d22-7e32-4785-81d4-106ad9916500)
 
