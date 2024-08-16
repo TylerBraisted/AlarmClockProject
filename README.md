@@ -32,3 +32,6 @@ using the playsound library, and the clock resets to "00:00". The input is then 
 <b>Now when the user hit's "Start", the time will begin</b>
 
 ![image](https://github.com/user-attachments/assets/1c3c805f-1f80-43cf-97d4-ebeff3965ea4)
+
+  Now the timer will play for 1 minute and 23 seconds, and when the time is up, the alarm sound will
+play and the clock will reset.
