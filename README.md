@@ -5,6 +5,8 @@
   The interface has a clock display and a start button. The clock starts with the time set to "00:00" and 
 allows users to input time in the format "MM:SS" by simply typing the numbers on their keyboard. When the user 
 enters a number, the clock display will update, shifting digits to the left as new digits are entered.
+
+<b>Initial Display:<b>
 ![image](https://github.com/user-attachments/assets/c0109d22-7e32-4785-81d4-106ad9916500)
 
  
