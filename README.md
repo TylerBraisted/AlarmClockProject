@@ -28,3 +28,7 @@ using the playsound library, and the clock resets to "00:00". The input is then 
 <b>User enters the number 3:</b>
 
 ![image](https://github.com/user-attachments/assets/f4c4f20e-2e8e-4537-9dcf-6a803785d450)
+
+<b>Now when the user hit's "Start", the time will begin</b>
+
+![image](https://github.com/user-attachments/assets/1c3c805f-1f80-43cf-97d4-ebeff3965ea4)
